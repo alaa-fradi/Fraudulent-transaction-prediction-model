@@ -10,5 +10,7 @@ Finally, the comparison of the results of the linear curves and the final cross-
 Thus, the score obtained is around 0.98 which confirms the performance of the model and confirms us in the predictions of fraudulent transactions. Nevertheless, and considering the sensitivity of the fraud problem and its heavy impacts, we consider that it is important to further refine our work by enriching the data to be used. 
 
 Finally, the model was exported using the Joblib library and was deployed in our web application that we built using Djang.
+the bank supervisor will be able to view the transactions in real time and test the performance of the model.
 ![Transaction-Table](Transaction-Table.png)
 ![Transaction-Results](Transaction-Results.png)
+
